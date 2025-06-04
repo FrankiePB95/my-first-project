@@ -8,3 +8,15 @@ body{
     background-color: lightgrey;
     background-image: url(/assets/images/01-02-02_background-img.jpg);
 }
+
+/* h2{
+    color: orangered;
+    font-size: 2rem;
+    text-align: left;
+} */
+
+h2{
+    color: orangered;
+    font-size: 2rem;
+    text-align: left;
+}
