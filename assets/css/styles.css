@@ -21,10 +21,18 @@ h2{
     text-align: left;
 }
 
-/* p {
+/* #one{
     font-weight: bold;
 } */
 
-p {
+#one{
     font-weight: bold;
+}
+
+/* #two{
+    text-align: center;
+} */
+
+#two{
+    text-align: center;
 }
